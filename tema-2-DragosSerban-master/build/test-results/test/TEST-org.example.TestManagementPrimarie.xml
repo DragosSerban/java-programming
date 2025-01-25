@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TestManagementPrimarie" tests="17" skipped="0" failures="0" errors="0" timestamp="2023-02-14T11:23:58" hostname="Dragoss-MacBook-Air.local" time="0.069">
+  <properties/>
+  <testcase name="utilizatoriCombinat1()" classname="org.example.TestManagementPrimarie" time="0.018"/>
+  <testcase name="utilizatoriCombinat2()" classname="org.example.TestManagementPrimarie" time="0.004"/>
+  <testcase name="utilizatoriCombinat3()" classname="org.example.TestManagementPrimarie" time="0.005"/>
+  <testcase name="exceptieCerere1()" classname="org.example.TestManagementPrimarie" time="0.001"/>
+  <testcase name="adaugaCerere1()" classname="org.example.TestManagementPrimarie" time="0.001"/>
+  <testcase name="birouCereri1()" classname="org.example.TestManagementPrimarie" time="0.006"/>
+  <testcase name="birouCereri2()" classname="org.example.TestManagementPrimarie" time="0.007"/>
+  <testcase name="birouCereri3()" classname="org.example.TestManagementPrimarie" time="0.002"/>
+  <testcase name="birouCereri4()" classname="org.example.TestManagementPrimarie" time="0.012"/>
+  <testcase name="birouCereri5()" classname="org.example.TestManagementPrimarie" time="0.001"/>
+  <testcase name="emptyOutput()" classname="org.example.TestManagementPrimarie" time="0.0"/>
+  <testcase name="stergeCerere1()" classname="org.example.TestManagementPrimarie" time="0.0"/>
+  <testcase name="utilizatorCerereCombinat1()" classname="org.example.TestManagementPrimarie" time="0.002"/>
+  <testcase name="utilizatorCerereCombinat2()" classname="org.example.TestManagementPrimarie" time="0.001"/>
+  <testcase name="utilizatorCerereCombinat3()" classname="org.example.TestManagementPrimarie" time="0.001"/>
+  <testcase name="utilizatorCerereCombinat4()" classname="org.example.TestManagementPrimarie" time="0.001"/>
+  <testcase name="utilizatorCerereCombinat5()" classname="org.example.TestManagementPrimarie" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
